@@ -1,6 +1,6 @@
 # EX:2a_Stop_and_Wait_Protocol
-### Register no: 212222110032
-### Name: Prabha C
+### Register no: 212223220064
+### Name: NARESH.M
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
